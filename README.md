@@ -29,3 +29,17 @@ pycharm 세팅은 생략
 - [ ] 지급 관리
 - [ ] 쿠폰
 - [ ] 인앱 영수증 검증
+
+## 인증
+- https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
+
+### 사용자 비밀번호 암호화
+
+### access token & JWT
+```shell
+pip install PyJWT
+```
+
+### 데코레이터를 사용하여 모든 엔드포인트에 인증 절차 삽입
+
+
